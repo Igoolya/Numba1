@@ -1,0 +1,30 @@
+.lilbox1,.lilbox2 { 
+    width: 490px;
+    height: 250px;
+    background: #edf5e1;;
+    margin-top: 20px;
+    margin: auto;
+    border: 2px solid orange;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    padding: 15px 15px 15px;
+    border-top: solid 2px #c4df9b;
+    position: relative;
+}
+
+.btn1, .btn2 { 
+    margin-left: 440px;
+    margin-top: 10px;
+    font-family:sans-serif;
+    text-decoration: underline;
+    color: darkred;
+    font-weight: 800;
+    display: block;
+}
+
+.lilbox1 h1, h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: black;
+    
+}
